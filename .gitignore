@@ -23,15 +23,11 @@ Homestead.json
 Homestead.yaml
 Thumbs.db
 
-
 /vendor/
 /node_modules/
 /composer.lock
 /.env
 /storage/logs/*.log
-/storage/framework/cache
-/storage/framework/sessions
-/storage/framework/views
 /.idea/
 /.vscode/
 /docker/php/.env
